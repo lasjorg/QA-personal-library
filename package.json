@@ -15,7 +15,7 @@
     "express": "^4.14.0",
     "mocha": "^3.2.0",
     "mongodb": "4.13",
-    "zombie": "^5.0.5"
+    "zombie": "^6.1.4"
   },
   "repository": {
     "type": "git",
